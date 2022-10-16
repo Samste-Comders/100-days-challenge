@@ -1,2 +1,2 @@
 # ThunderSmoker:-
-## [TWO SUM][(https://leetcode.com/problems/two-sum/)
+## [TWO SUM](https://leetcode.com/problems/two-sum/)
