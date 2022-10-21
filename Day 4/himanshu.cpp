@@ -24,3 +24,11 @@ public:
         return ans+re;
     }
 };
+
+//Solution for Question 2
+class Solution {
+public:
+    int strStr(string haystack, string needle) {
+        return haystack.find(needle)==string::npos?-1:haystack.find(needle);
+    }
+};
